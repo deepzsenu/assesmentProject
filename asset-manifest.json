@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/assesmenProject/static/js/main.b17e4478.js",
+    "static/media/imml.png": "/assesmenProject/static/media/imml.5f7d5799eb1de8603404.png",
+    "static/media/imlogo.svg": "/assesmenProject/static/media/imlogo.4c8cb5b86c98b807105136d3b6089aba.svg",
+    "static/media/user.png": "/assesmenProject/static/media/user.5e8a9686be49070ab6a0.png",
+    "static/media/Support.svg": "/assesmenProject/static/media/Support.db14f196d2fef12cbc21b8c2523346d5.svg",
+    "index.html": "/assesmenProject/index.html",
+    "main.b17e4478.js.map": "/assesmenProject/static/js/main.b17e4478.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b17e4478.js"
+  ]
+}
